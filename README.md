@@ -19,10 +19,14 @@ in the dictionary once) and then traverses that tree with respect to the number.
 
 To build:
 
+```
 make ph
+```
 
 To run:
 
+```
 ./ph
+```
 
 Should build and run on pretty much any system that has GCC and make.
