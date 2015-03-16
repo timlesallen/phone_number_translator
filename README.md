@@ -1,3 +1,6 @@
+Phone Number Tranlator
+======================
+
 A little C program to find words in your phone number.
 
 Author: Tim Allen
